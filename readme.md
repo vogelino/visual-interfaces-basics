@@ -33,18 +33,24 @@ I chose my home thermostat from Junkers, which controls my flat's heater, which 
 ### The confusing parts
 The three modes of the thermostat were not really clear to me as to switch between them, a combination of many different physical inputs are necessary:
 
-- **The off mode:** The off mode is actually an anti-freeze mode that heats only when the room temperature goes under 5°c. It is activated when the circular switch is oriented on the ![snowflake-icon] symbol. For any user having few knowledge about heating system, it would take a while util realizing that this symbol turns the thermostat _"off"_
-- **The heating programm:** The thermostat leaves the user the possibility to configure two phases of heating during the day: The day phase and the night phase. When the user sets up the day phase, he can choose at what time the mode begins and the temperature the room should be starting from this point. The day phase is represented by a ![sun-icon] icon and marks the end of the night phase. The night phase is represented by a ![moon-icon] and marks the end of the day phase.  The confusing part here is:
-	- that in the night phase it cannot be heated at higher temperature than in the day phase
-	- that the day phase can be configured to heat during the night and the night phase during the day
-	- that the text shown when configuring the day phase is _"heat"_ when in the night phase it is _"save"_
+- **The off mode:** The off mode is actually an anti-freeze mode that heats only when the room temperature goes under 5°c. It is activated when the circular switch is oriented on the ![snowflake-icon] icon. For any user having few knowledge about heating system, it would take a while util realizing that this symbol represents the thermostat's _"off"_ state.
+- **The heating program:** The thermostat gives the user the possibility to configure two phases of heat during the day: The day phase and the night phase. When the user sets up the day phase, he can choose at what time the heating begins and at which temperature. The day phase is represented by a ![sun-icon] icon and marks the end of the night phase. The night phase is represented by a ![moon-icon] and marks the end of the day phase. The confusing part here is:
+	- that in the night phase it cannot be heated at higher temperature than in the day phase.
+	- that the day phase can be configured to heat during the night and the night phase during the day.
+	- that the text shown when configuring the day phase is _"heat"_ when in the night phase it is _"save"_. _Why save if it is still heating?_
 
-	To let the heating programm run, the circular switch needs to be oriented on the ![radiator-icon]. It is important that the _"auto"_ text apears on the screen. To toggle the _"auto"_ text, the auto button has to be pressed.
+	To let the heating program run, the circular switch needs to be oriented on the ![radiator-icon]. It is important that the _"auto"_ text appears on the screen. To toggle the _"auto"_ text, the auto button has to be pressed.
 
-- **The manual mode:** This mode lets the user override the temperature of the actual heating phase and set the one he wants right now. To do so, he must press the auto button until it does not appear on the sreen. Then, by rotating the central rotative knob the user can set the wished temperature. This is also annoying at the first time because you can easlily miss the information and heat for many days non stop.
+- **The manual mode:** This mode lets the user override the temperature of the actual heating phase. To do so, the auto button hast to be pressed until it disappears from the screen. Then, by rotating the central knob the user can set the wished temperature. Because you can easily miss the information, it happens often to heat for many days without a break which is not really economic.
 
 ## The information architecture
-coming soon
+As a first investigation process, before ever improving the design of the product, the whole information architecture had to be presented in a visual way. Doing so, it is made sure that the product is understood, that all its options are listed distinguished, listed and that no shadows remains.
+
+In the case of my thermostat, I opted to show the home screen as a base. Starting from the home, I show all interactions that lead to another screen and finally lead back to the home screen. I chose to represent paths that we can visually follow and indicate though symbols where interaction happens. On the multiple screens, I also labeled the different actions that are to be made in a specific order.
+
+<a href="https://raw.githubusercontent.com/vogelino/visual-interfaces-basics/master/information-architecture/exports/termostat-informations-achritechture-hd.jpg" target="_blank" title="Junkers thermostat - information architecture">
+	<img width="98.5%" src="https://raw.githubusercontent.com/vogelino/visual-interfaces-basics/master/information-architecture/exports/termostat-informations-achritechture-lq.jpg" alt="Junkers thermostat - information architecture" />
+</a>
 
 ## The redesign
 coming soon
