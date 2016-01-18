@@ -7,29 +7,34 @@ A review and report of the course [_Visual interfaces basics_](https://fhp.incom
 — Constanze Langer. Traduced from german by Lucas Vogel
 
 
-In this course we did:
+In this course we did…
 
-- get an overview over the human perception, especially the visual perception
-- get an overview over the multiple presentation possibilities of interface elements, data, relations and processes
-- analyze the existing communication systems, sorting and structuring methods
-- develop our personal design approach, both analog and digital
-- become aware of the multiple design aspects that are to be used when designing interfaces
-- practice with exercises, achieving results, using processes and making decisions which we were able to to justify and explain, making it logical and comprehensive
+- …get an overview of the human perception basics, especially the visual perception
+- …get an overview of the multiple presentation possibilities of interface elements, data, relations and processes
+- …analyze the existing communication systems, sorting and structuring methods
+- …develop our personal design approach, both analog and digital
+- …become aware of the multiple aspects that are to be considered when designing for screen
+- …exercises-based practice, achieve results, use processes and make decisions which we were able to warrant and to logically and comprehensively explain
 
 ## The interface
-To investigate theoretically and practically the concepts and basics of Interface design, every student chose one product with a display in order to analyze its streghts and weaknesses and to understand its structure and its interactions.
+To investigate the theoretical concepts and basics of Interface design practically, every student chose one product with a display. We analyzed its streghts and weaknesses and aimed to understand its structure and its interactions. Finally, we could propose a design improvement. This could be:
+- A redesign of the whole product
+- A proposal for a better information structure
+- A redesign of the iconography
+- An improvemnt of the user interactions
+- etc.
 
-I chose my home thermostat from Junkers, which controls my flat's heater, which is nice. However, the apparatus is quite confusing for many reasons. Before taking part of this course, I barely understood how it works and how set it up. I was rather touching every button until the temperature in my flat became at some point convenient. I ended up changing the configuration every day when actually, the purpose of the thermostat itself should be to handle the heating for me once configured.
+I chose my home thermostat from Junkers, which controls my flat's heater, which is nice. However, many interactions and particulary the configuration is quite confusing. Before taking part of this course, I barely understood how it works and how set it up. I was rather pressing every button until the temperature in my flat became at some point convenient than master it. I ended up changing blindly the configuration every day when actually, the purpose of the thermostat itself should have been to handle the heating for me once configured.
 
 <img width="49%" src="https://raw.githubusercontent.com/vogelino/visual-interfaces-basics/master/information-architecture/images/junkers-thermostat-front-closed.jpg" alt="Junkers thermostat closed" />
 <img width="49%" src="https://raw.githubusercontent.com/vogelino/visual-interfaces-basics/master/information-architecture/images/junkers-thermostat-front-closed-open.jpg" alt="Junkers thermostat opened" />
 <img width="98.5%" src="https://raw.githubusercontent.com/vogelino/visual-interfaces-basics/master/information-architecture/images/all-screens.jpg" alt="Junkers thermostat - all screens" />
 
 ### The confusing parts
-The three modes of the thermostat were not really clear to me at the beginning, as to switch between them, a combination of many different physical inputs are necessary:
+The three modes of the thermostat were not really clear to me as to switch between them, a combination of many different physical inputs are necessary:
 
 - **The off mode:** The off mode is actually an anti-freeze mode that heats only when the room temperature goes under 5°c. It is activated when the circular switch is oriented on the ![snowflake icon][snowflake-icon] symbol. For any user having few knowledge about heating system, it would take a while util realizing that this symbol turns the thermostat _"off"_
-- **The heating programm:** The thermostat leaves the user the possibility to configure two phases of heating during the day: The day phase and the night phase. When the user sets up the day phase, he can choose at what time the mode begins and the temperature the room should be starting from this point. The day phase is represented by a ![sun icon][sun-icon] icon and marks the end of the night phase. The night phase is represented by a ![moon icon][moon-icon] and marks the end of the day phase. What here is confusing, is:
+- **The heating programm:** The thermostat leaves the user the possibility to configure two phases of heating during the day: The day phase and the night phase. When the user sets up the day phase, he can choose at what time the mode begins and the temperature the room should be starting from this point. The day phase is represented by a ![sun icon][sun-icon] icon and marks the end of the night phase. The night phase is represented by a ![moon icon][moon-icon] and marks the end of the day phase. The confusing part here is:
 	- that in the night phase it cannot be heated at higher temperature than in the day phase
 	- that the day phase can be configured to heat during the night and the night phase during the day
 	- that the text shown when configuring the day phase is _"heat"_ when in the night phase it is _"save"_
