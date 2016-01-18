@@ -23,7 +23,7 @@ I chose my home thermostat from Junkers, which controls all my heating systems, 
 
 <img width="49%" src="https://raw.githubusercontent.com/vogelino/visual-interfaces-basics/master/information-architecture/images/junkers-thermostat-front-closed.jpg" alt="Junkers thermostat closed" />
 <img width="49%" src="https://raw.githubusercontent.com/vogelino/visual-interfaces-basics/master/information-architecture/images/junkers-thermostat-front-closed-open.jpg" alt="Junkers thermostat opened" />
-<img width="49%" src="https://raw.githubusercontent.com/vogelino/visual-interfaces-basics/master/information-architecture/images/all-screens.jpg" alt="Junkers thermostat - all screens" />
+<img src="https://raw.githubusercontent.com/vogelino/visual-interfaces-basics/master/information-architecture/images/all-screens.jpg" alt="Junkers thermostat - all screens" />
 
 ## The information architecture
 coming soon
