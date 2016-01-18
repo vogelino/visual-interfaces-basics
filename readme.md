@@ -28,13 +28,13 @@ I chose my home thermostat from Junkers, which controls my flat's heater, which 
 ### The confusing parts
 The three modes of the thermostat were not really clear to me at the beginning, as to switch between them, a combination of many different physical inputs are necessary:
 
-- **The off mode:** The off mode is actually an anti-freeze mode that heats only when the room temperature goes under 5°c. It is activated when the circular switch is oriented on the ![snowflake icon][snowflake-icon] symbol. For any user having few knowledge about heating system, it would take a while util realizing that this symbol turns the thermostat _"off"_
-- **The heating programm:** The thermostat leaves the user the possibility to configure two phases of heating during the day: The day phase and the night phase. When the user sets up the day phase, he can choose at what time the mode begins and the temperature the room should be starting from this point. The day phase is represented by a ![sun icon][sun-icon] icon and marks the end of the night phase. The night phase is represented by a ![moon icon][moon-icon] and marks the end of the day phase. What here is confusing, is:
+- **The off mode:** The off mode is actually an anti-freeze mode that heats only when the room temperature goes under 5°c. It is activated when the circular switch is oriented on the ![snowflake-icon] symbol. For any user having few knowledge about heating system, it would take a while util realizing that this symbol turns the thermostat _"off"_
+- **The heating programm:** The thermostat leaves the user the possibility to configure two phases of heating during the day: The day phase and the night phase. When the user sets up the day phase, he can choose at what time the mode begins and the temperature the room should be starting from this point. The day phase is represented by a ![sun-icon] icon and marks the end of the night phase. The night phase is represented by a ![moon-icon] and marks the end of the day phase. What here is confusing, is:
 	- that in the night phase it cannot be heated at higher temperature than in the day phase
 	- that the day phase can be configured to heat during the night and the night phase during the day
 	- that the text shown when configuring the day phase is _"heat"_ when in the night phase it is _"save"_
 
-	To let the heating programm run, the circular switch needs to be oriented on the ![radiator icon][radiator-icon]. It is important that the _"auto"_ text apears on the screen. To toggle the _"auto"_ text, the auto button has to be pressed.
+	To let the heating programm run, the circular switch needs to be oriented on the ![radiator-icon]. It is important that the _"auto"_ text apears on the screen. To toggle the _"auto"_ text, the auto button has to be pressed.
 
 - **The manual mode:** This mode lets the user override the temperature of the actual heating phase and set the one he wants right now. To do so, he must press the auto button until it does not appear on the sreen. Then, by rotating the central rotative knob the user can set the wished temperature. This is also annoying at the first time because you can easlily miss the information and heat for many days non stop.
 
@@ -47,7 +47,7 @@ coming soon
 ## Conclusion
 coming soon
 
-[sun-icon]: https://raw.githubusercontent.com/vogelino/visual-interfaces-basics/master/information-architecture/icon/sun.png
-[moon-icon]: https://raw.githubusercontent.com/vogelino/visual-interfaces-basics/master/information-architecture/icon/moon.png
-[snowflake-icon]: https://raw.githubusercontent.com/vogelino/visual-interfaces-basics/master/information-architecture/icon/snowflake.png
-[radiator-icon]: https://raw.githubusercontent.com/vogelino/visual-interfaces-basics/master/information-architecture/icon/radiator.png
+[sun-icon]: https://raw.githubusercontent.com/vogelino/visual-interfaces-basics/master/information-architecture/icons/sun.png
+[moon-icon]: https://raw.githubusercontent.com/vogelino/visual-interfaces-basics/master/information-architecture/icons/moon.png
+[snowflake-icon]: https://raw.githubusercontent.com/vogelino/visual-interfaces-basics/master/information-architecture/icons/snowflake.png
+[radiator-icon]: https://raw.githubusercontent.com/vogelino/visual-interfaces-basics/master/information-architecture/icons/radiator.png
