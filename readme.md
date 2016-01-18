@@ -21,6 +21,10 @@ To investigate theoretically and practically the concepts and basics of Interfac
 
 I chose my home thermostat from Junkers, which controls all my heating systems, which is nice. However, the apparatus is quite confusing for many reasons. Before taking part of this course, I barely understood how it works and how set it up. I was rather touching every button until the temperature in my flat became at some point convenient. I ended up changing the configuration every day when actually, the purpose of the thermostat itself should be to handle the heating for me once configured.
 
+<img width="49%" src="https://raw.githubusercontent.com/vogelino/visual-interfaces-basics/master/information-architecture/images/junkers-thermostat-front-closed.jpg" alt="Junkers thermostat closed" />
+<img width="49%" src="https://raw.githubusercontent.com/vogelino/visual-interfaces-basics/master/information-architecture/images/junkers-thermostat-front-closed-open.jpg" alt="Junkers thermostat opened" />
+<img width="49%" src="https://raw.githubusercontent.com/vogelino/visual-interfaces-basics/master/information-architecture/images/all-screens.jpg" alt="Junkers thermostat - all screens" />
+
 ## The information architecture
 coming soon
 
