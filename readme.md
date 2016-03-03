@@ -128,7 +128,7 @@ Originally, I intended to build a working prototype (i.e. with [framer.js](http:
 - Test if the work-flow is intuitive for unprepared users
 - Show the animations and transitions between the application's states
 
-As I did not have the time and because I am not experienced with working prototypes, I couldn't achieve to make one yet. Though, I planned to create one soon enough. If you wish to know when I'll be done, fork this project.
+As I did not have the time and because I am not experienced with working prototypes, I couldn't achieve to make one yet. Though, I planned to create one soon enough. If you wish to know when I'll be done, :star: this project.
 
 ### The poster
 To present the redesign, I created a A1 poster that displays the views and explains the different application's views and functionalities.
