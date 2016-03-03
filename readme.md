@@ -77,6 +77,8 @@ The poster then helped to better realize the weaknesses and strengths of the pro
 - The taxonomy used is confusing
 
 ## The redesign
+<img style="max-width: 100%;" src="https://raw.githubusercontent.com/vogelino/visual-interfaces-basics/master/redesign/documentation-decoration/orange-ring.gif" alt="ignore" />
+
 The second iteration of the project was about offering a redesign improving the original interface. Even if I was aware of the product's strengths and weaknesses so far I still wasn't sure if improving the interface, iconography and vulnerabilities would be enough to make it as I wished it would be.
 
 Instead of keeping the same interface and making it more understandable or beautifully designed, I choose to imagine an alternative to this thermostat which would fulfill my expectations. Additionally to the simple control that my thermostat gives me, I wanted it to be more flexible and to adapt better to my lifestyle.
@@ -85,10 +87,13 @@ What if I go on vacation? An what it I want every Sunday to be more cozy at my p
 
 That's why I came to the idea to make a smart-phone application called __H°me__ intended for planing and organizing time spans in which you wish to heat your home.
 
+<img style="max-width: 100%;" src="https://raw.githubusercontent.com/vogelino/visual-interfaces-basics/master/redesign/documentation-decoration/pink-ring.gif" alt="ignore" />
+
 Nowadays, few are the ones which do not carry a smart-phone or a tablet with them on a daily basis. These devices became powerful tools that overcame many physical limits. The time has long become for old and complex home-heating systems to be replaced by a simple and dynamic application, that can be used anytime and anywhere.
 Say hallo to __H°me__, your pocket heat planner.
 
 <img width="100%" src="https://raw.githubusercontent.com/vogelino/visual-interfaces-basics/master/redesign/exports/all-views.jpg" alt="Alternative heating application" />
+<img style="max-width: 100%;" src="https://raw.githubusercontent.com/vogelino/visual-interfaces-basics/master/redesign/documentation-decoration/lime-ring.gif" alt="ignore" />
 
 ##### 1. Overview
 The overview is the screen where you see the actual temperature of your home, when and how warm it will be heating up.
@@ -113,6 +118,8 @@ A category is always a combination of:
 - Temperature
 - Color
 
+<img style="max-width: 100%;" src="https://raw.githubusercontent.com/vogelino/visual-interfaces-basics/master/redesign/documentation-decoration/turquoise-ring.gif" alt="ignore" />
+
 #### Designing the application
 I created the screens with [sketch](https://www.sketchapp.com/), a tool for designing interfaces. I based my format on the [dimensions of an iPhone 5s](http://www.apple.com/lae/iphone-5s/specs/) as a reference and aimed to make it feel natural and intuitive, regardless of IOS or android users.
 
@@ -121,6 +128,8 @@ I created the screens with [sketch](https://www.sketchapp.com/), a tool for desi
 I made my best to make the UI elements look sharp at the @1x size, to make a balanced use of white space (particularly challenging for the overview, which displays many elements). The UX should be easy, intuitive and enjoyable. The use of only a few screens should avoid unnecessary interactions.
 
 When a user fully configures his heating plan for the first time, he's expected to open the application only for small modifications which should be achievable quickly and easily.
+
+<img style="max-width: 100%;" src="https://raw.githubusercontent.com/vogelino/visual-interfaces-basics/master/redesign/documentation-decoration/purple-ring.gif" alt="ignore" />
 
 ##### A working prototype
 Originally, I intended to build a working prototype (i.e. with [framer.js](http://framerjs.com/)). This should focus on:
