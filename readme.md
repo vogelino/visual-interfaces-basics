@@ -24,7 +24,7 @@ To investigate the theoretical concepts and basics of Interface design practical
 - An improvemnt of the user interactions
 - etc.
 
-I chose my home thermostat from Junkers, which controls my flat's heater, which is nice. However, many interactions and particulary the configuration is quite confusing. Before taking part of this course, I barely understood how it works and how set it up. I was rather pressing every button until the temperature in my flat became at some point convenient than master it. I ended up changing blindly the configuration every day when actually, the purpose of the thermostat itself should have been to handle the heating for me once configured.
+I chose my home thermostat from Junkers, which controls my flat's heater, which is nice. However, many interactions and particulary the configuration is quite confusing. Before taking part of this course, I barely understood how it works and how set it up. I was rather pressing every button until the temperature in my flat became at some point convenient. I ended up changing blindly the configuration every day when actually, the purpose of the thermostat itself should have been to handle the heating for me once configured.
 
 <img width="49%" src="https://raw.githubusercontent.com/vogelino/visual-interfaces-basics/master/information-architecture/images/junkers-thermostat-front-closed.jpg" alt="Junkers thermostat closed" />
 <img width="49%" src="https://raw.githubusercontent.com/vogelino/visual-interfaces-basics/master/information-architecture/images/junkers-thermostat-front-closed-open.jpg" alt="Junkers thermostat opened" />
@@ -53,10 +53,42 @@ In the case of my thermostat, I opted to show the home screen as a base. Startin
 </a>
 
 ## The redesign
-coming soon
+The second iteration of the project was about offering a redesign improving the original interface. Instead of keeping the same interface and making it more understandable or beautifully designed, I choose to create mock-ups of an alternative to this thermostat. The idea was to make a smart-phone app called __H°me__ intended for planing and organizing time spans in which you wish to heat your home.
 
-## Conclusion
-coming soon
+<img width="100%" src="https://raw.githubusercontent.com/vogelino/visual-interfaces-basics/master/redesign/exports/all-views.jpg" alt="Alternative heating app" />
+
+#### Introduction
+Nowadays, few are the ones which do not carry a smart-phone or a tablet with them on a daily basis. These devices became powerful tools that overcame many physical limits. The time has long become for old and complex home-heating systems to be replaced by a simple and dynamic app, that can be used anytime and anywhere.
+Say hallo to __H°me__, your pocket heat planner.
+
+##### 1. Overview
+The overview is the screen where you see the actual temperature of your home, when and how warm it will be heating up.
+This view is split in three presentation layers:
+- The day lane, where you can see and control the temperature hourly
+- Your weekly overview
+- Your monthly synopsis
+
+##### 2. Edit an event
+__H°me__ works similar as a calendar. Each time you want your home to be heating up at a special time and temperature, you create an event.
+To each event, you can assign a category, define a timespan, choose whether you want this event to be repeated and whether you want to be notified at start and/or at the end of the process.
+
+##### 3. Assign a category
+To be able to recognize your events and to situate them in the overview, you can assign them any temperature-category.
+Give your categories fancy names to get quickly custom to them. The nameless ones are shown in a pale blue until you use and name them.
+In this screen, the event‘s selected category is Weightlessness.
+
+##### 4. Create a new category
+Let‘s say you feel huggy at 18.5° and want this temperature to be associated with this mood. Call this warmth huggy and all events set to 18.5° will be shown with this color and this name.
+A category is always a combination of:
+- Name
+- Temperature
+- Color
+
+### The poster
+To present the redesign, I created a A1 poster that displays the views and explains the app. This poster was presented at the end of the course, along with the posters of other students.
+
+<img width="100%" src="https://raw.githubusercontent.com/vogelino/visual-interfaces-basics/master/redesign/exports/poster.jpg" alt="The final presentation poster of H°ome" />
+
 
 [sun-icon]: https://raw.githubusercontent.com/vogelino/visual-interfaces-basics/master/information-architecture/icons/sun.png
 [moon-icon]: https://raw.githubusercontent.com/vogelino/visual-interfaces-basics/master/information-architecture/icons/moon.png

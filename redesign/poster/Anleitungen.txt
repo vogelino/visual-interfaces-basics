@@ -1,0 +1,88 @@
+ADOBE INDESIGN - DRUCKANLEITUNGEN FÜR BELICHTUNGSBÜROBERICHT
+
+SATZDATEINAME: DINA1-Poster-002.indd
+
+PACKDATUM: 01.02.16 09:34
+Erstellungsdatum 01.02.16
+Änderungsdatum: 01.02.16
+
+AUFTRAGGEBER
+Ansprechpartner: Lucas Vogel
+Adresse: Forster Straße 2, 10999 Berlin
+Telefon: 017641674501
+E-Mail: contact@vogelino.com
+
+BESONDERE ANWEISUNGEN UND ANDERE ANMERKUNGEN
+
+Bitte die Farben prüfen und das Poster mit einem 3mm Abschnitt an der Kanten schneiden.
+Zwei Exports stehen bereit in das "Export" Ordner. Ein davon ist mit Schnittmarken
+verstehen und der zweiten nicht. Beide aber mit einem Anschnitt von 3mm.
+Nehmen Sie der, der zu Ihre Gewönnheit/Verfahren/Drucker am besten passt.
+Beide Dokumenten sind im Farbprofil COATED FOGRA27(ISO: 12647-2:2004) konvertiert worden.
+
+
+
+
+Externe Zusatzmodule 0
+Nicht deckende Objekte: Auf Seite1
+
+SCHRIFTARTEN
+4 Schriftart(en) verwendet; 0 fehlend, 0 eingebettet, 0 unvollst., 0 geschützt
+
+Schriftarten verpackt
+- Name: AnonymicePowerline; Typ: TrueType, Status: OK
+- Name: Gotham-Light; Typ: Type 1, Status: OK
+- Name: Gotham-LightItalic; Typ: Type 1, Status: OK
+- Name: Gotham-Medium; Typ: Type 1, Status: OK
+
+
+FARBEN UND DRUCKFARBEN
+4 Prozessfarbe(n); 0 Volltonfarbe(n)
+
+- Name und Typ: Prozessfarbe Cyan; Winkel: 0,000; Linien/Zoll: 0,000
+- Name und Typ: Prozessfarbe Magenta; Winkel: 0,000; Linien/Zoll: 0,000
+- Name und Typ: Prozessfarbe Gelb; Winkel: 0,000; Linien/Zoll: 0,000
+- Name und Typ: Prozessfarbe Schwarz; Winkel: 0,000; Linien/Zoll: 0,000
+
+
+VERKNÜPFUNGEN UND BILDER
+(Nur fehlende & eingebettete Verknüpfungen)
+Verknüpfungen und Bilder: 5 Verknüpfung(en) gefunden; 0 geändert, 0 fehlend 0 Zugriff nicht möglich
+Bilder: 0 eingebettet, 0 verwenden RGB-Farbraum
+
+
+DRUCKEINSTELLUNGEN
+PPD: n. zutr., Gerätunabhängig
+Druckausgabe: Drucker
+Anzahl der Exemplare: 1
+Druckbögen: Nein
+Gerade/Ungerade Seiten: Beides
+Seiten: Alle
+Probedruck: Nein
+Unterteilung: Ohne
+Skalieren: 100 %, 100 %
+Seitenposition: Oben links
+Ebenen drucken: Sichtbare und druckbare Ebenen
+Druckermarken: Schnittmarken
+Anschnitt: 3 mm, 3 mm, 3 mm, 3 mm
+Farbe: Coated FOGRA27(ISO: 12647-2:2004)
+Überfüllungsmodus:  Ohne
+Bilddaten senden: Auflösung reduzieren
+OPI/DCS-Bildersetzung: Nein
+Seitenformat: Benutzerdefiniert: 594 mm x 840 mm
+Papierabmessungen: 594 mm x 840 mm (DIN A1)
+Format: Hochformat
+Negativ: Nein
+Spiegelmodus: Aus
+
+
+DATEIPAKETLISTE
+
+1. DINA1-Poster-002.indd; Typ: Adobe InDesign-Satzdatei; Größe: 2264K
+2. DINA1-Poster-002.idml; Typ: InDesign Markup-Dokument; Größe: 67K
+3. DINA1-Poster-002.pdf; Typ: Adobe Acrobat-Dokument; Größe: 5460K
+4. Anonymice Powerline.ttf; Typ: Schriftartendatei; Größe: 115K
+5. GothaLig; Typ: Schriftartendatei; Größe: 0K
+6. HTF Gotham™; Typ: Schriftartendatei; Größe: 0K
+7. GothaLigIta; Typ: Schriftartendatei; Größe: 0K
+8. GothaMed; Typ: Schriftartendatei; Größe: 0K

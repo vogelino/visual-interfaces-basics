@@ -1,0 +1,224 @@
+%!Adobe-FontList 1.16
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AnonymicePowerline
+FamilyName:Anonymous Pro for Powerline
+StyleName:Regular
+MenuName:Anonymice Powerline
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Anonymice Powerline
+WritingScript:Roman
+OutlineFileName:\Anonymice Powerline.ttf
+DataFormat:sfntData
+FileLength:117780
+FileModTime:1436782437
+NameArray:0,Mac,18,Anonymous Pro for Powerline
+NameArray:0,Mac,4,Anonymice Powerline
+NameArray:0,Win,1,Anonymice Powerline
+NameArray:0,Win,16,Anonymous Pro for Powerline
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Gotham-Light
+FamilyName:Gotham
+StyleName:Light
+MenuName:Gotham-Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Gotham-Light
+WritingScript:Roman
+OutlineFileName:\GothaLig
+DataFormat:POSTResource
+UsesStandardEncoding:no
+isCFF:no
+FileLength:30748
+FileModTime:1237761489
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Gotham-LightItalic
+FamilyName:Gotham
+StyleName:LightItalic
+MenuName:Gotham-LightItalic
+StyleBits:1
+WeightClass:300
+WidthClass:5
+AngleClass:1
+FullName:Gotham-LightItalic
+WritingScript:Roman
+OutlineFileName:\GothaLigIta
+DataFormat:POSTResource
+UsesStandardEncoding:no
+isCFF:no
+FileLength:31401
+FileModTime:1237761489
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Gotham-Medium
+FamilyName:Gotham
+StyleName:Medium
+MenuName:Gotham-Medium
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Gotham-Medium
+WritingScript:Roman
+OutlineFileName:\GothaMed
+DataFormat:POSTResource
+UsesStandardEncoding:no
+isCFF:no
+FileLength:30764
+FileModTime:1237761489
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Gotham-Light
+OutlineFileName:\HTF Gotham™
+ResourceID:4158
+MacStyle:0
+FileLength:207007
+FileModTime:1237761490
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Gotham-LightItalic
+OutlineFileName:\HTF Gotham™
+ResourceID:4158
+MacStyle:2
+FileLength:207007
+FileModTime:1237761490
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Gotham-Book
+OutlineFileName:\HTF Gotham™
+ResourceID:4159
+MacStyle:0
+FileLength:207007
+FileModTime:1237761490
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Gotham-BookItalic
+OutlineFileName:\HTF Gotham™
+ResourceID:4159
+MacStyle:2
+FileLength:207007
+FileModTime:1237761490
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Gotham-Medium
+OutlineFileName:\HTF Gotham™
+ResourceID:4160
+MacStyle:0
+FileLength:207007
+FileModTime:1237761490
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Gotham-MediumItalic
+OutlineFileName:\HTF Gotham™
+ResourceID:4160
+MacStyle:2
+FileLength:207007
+FileModTime:1237761490
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Gotham-Bold
+OutlineFileName:\HTF Gotham™
+ResourceID:4161
+MacStyle:0
+FileLength:207007
+FileModTime:1237761490
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Gotham-BoldItalic
+OutlineFileName:\HTF Gotham™
+ResourceID:4161
+MacStyle:2
+FileLength:207007
+FileModTime:1237761490
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Gotham-LightItalic
+OutlineFileName:\HTF Gotham™
+ResourceID:4275
+MacStyle:0
+FileLength:207007
+FileModTime:1237761490
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Gotham-BookItalic
+OutlineFileName:\HTF Gotham™
+ResourceID:4276
+MacStyle:0
+FileLength:207007
+FileModTime:1237761490
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Gotham-MediumItalic
+OutlineFileName:\HTF Gotham™
+ResourceID:4277
+MacStyle:0
+FileLength:207007
+FileModTime:1237761490
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Gotham-BoldItalic
+OutlineFileName:\HTF Gotham™
+ResourceID:4278
+MacStyle:0
+FileLength:207007
+FileModTime:1237761490
+%EndFont
+
