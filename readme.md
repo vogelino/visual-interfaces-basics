@@ -59,16 +59,36 @@ In the case of my thermostat, I opted to show the home screen as a base as it is
 	<img width="98.5%" src="https://raw.githubusercontent.com/vogelino/visual-interfaces-basics/master/information-architecture/exports/termostat-informations-achritechture-lq.jpg" alt="Junkers thermostat - information architecture" />
 </a>
 
+The style of the visual elements were intentionally inspired by the original aspect of the product in order to remain consistent. Doing so, I aim to make clear that no improvements to the original design were made and that the poster's intention is exclusively to make the status quo understandable.
+
+The poster then helped to better realize the weaknesses and strengths of the product, in term of interface- and interaction- design.
+
+#### Strengths
+
+- The interface has few functionalities and isn't meaninglessly over engineered
+- The circular representation of the day help to understand the heat time spans and the actual position in time
+
+#### Weaknesses
+
+- The iconography is not intuitively understandable
+- The amount of physical inputs is high and their use unclear
+- The category of the informations displayed on screen often change their position, which doesn't help to identify what to expect
+- The actual position within the steps is not clear and relies on the user's memory
+- The taxonomy used is confusing
+
 ## The redesign
-The second iteration of the project was about offering a redesign improving the original interface. Instead of keeping the same interface and making it more understandable or beautifully designed, I choose to create mock-ups of an alternative to this thermostat. The idea was to make a smart-phone app called __H°me__ intended for planing and organizing time spans in which you wish to heat your home.
+The second iteration of the project was about offering a redesign improving the original interface. Even if I was aware of the product's strengths and weaknesses so far I still wasn't sure if improving the interface, iconography and vulnerabilities would be enough to make it as I wished it would be.
 
-<img width="100%" src="https://raw.githubusercontent.com/vogelino/visual-interfaces-basics/master/redesign/exports/all-views.jpg" alt="Alternative heating app" />
+Instead of keeping the same interface and making it more understandable or beautifully designed, I choose to imagine an alternative to this thermostat which would fulfill my expectations. Additionally to the simple control that my thermostat gives me, I wanted it to be more flexible and to adapt better to my lifestyle.
 
-I intentionally inspired the visual style of the visual elements to the original one to remain consistent and to 
+What if I go on vacation? An what it I want every Sunday to be more cozy at my place?
 
-#### Introduction
-Nowadays, few are the ones which do not carry a smart-phone or a tablet with them on a daily basis. These devices became powerful tools that overcame many physical limits. The time has long become for old and complex home-heating systems to be replaced by a simple and dynamic app, that can be used anytime and anywhere.
+That's why I came to the idea to make a smart-phone application called __H°me__ intended for planing and organizing time spans in which you wish to heat your home.
+
+Nowadays, few are the ones which do not carry a smart-phone or a tablet with them on a daily basis. These devices became powerful tools that overcame many physical limits. The time has long become for old and complex home-heating systems to be replaced by a simple and dynamic application, that can be used anytime and anywhere.
 Say hallo to __H°me__, your pocket heat planner.
+
+<img width="100%" src="https://raw.githubusercontent.com/vogelino/visual-interfaces-basics/master/redesign/exports/all-views.jpg" alt="Alternative heating application" />
 
 ##### 1. Overview
 The overview is the screen where you see the actual temperature of your home, when and how warm it will be heating up.
@@ -93,11 +113,33 @@ A category is always a combination of:
 - Temperature
 - Color
 
+#### Designing the application
+I created the screens with [sketch](https://www.sketchapp.com/), a tool for designing interfaces. I based my format on the [dimensions of an iPhone 5s](http://www.apple.com/lae/iphone-5s/specs/) as a reference and aimed to make it feel natural and intuitive, regardless of IOS or android users.
+
+<img width="100%" src="https://raw.githubusercontent.com/vogelino/visual-interfaces-basics/master/redesign/exports/designing-in-sketch.png" alt="Designing H°ome in sketch" />
+
+I made my best to make the UI elements look sharp at the @1x size, to make a balanced use of white space (particularly challenging for the overview, which displays many elements). The UX should be easy, intuitive and enjoyable. The use of only a few screens should avoid unnecessary interactions.
+
+When a user fully configures his heating plan for the first time, he's expected to open the application only for small modifications which should be achievable quickly and easily.
+
+##### A working prototype
+Originally, I intended to build a working prototype (i.e. with [framer.js](http://framerjs.com/)). This should focus on:
+
+- Test if the work-flow is intuitive for unprepared users
+- Show the animations and transitions between the application's states
+
+As I did not have the time and because I am not experienced with working prototypes, I couldn't achieve to make one yet. Though, I planned to create one soon enough. If you wish to know when I'll be done, fork this project.
+
 ### The poster
-To present the redesign, I created a A1 poster that displays the views and explains the app. This poster was presented at the end of the course, along with the posters of other students.
+To present the redesign, I created a A1 poster that displays the views and explains the different application's views and functionalities.
+This poster was presented at the end of the course, along with the posters of other students.
 
 <img width="100%" src="https://raw.githubusercontent.com/vogelino/visual-interfaces-basics/master/redesign/exports/poster.jpg" alt="The final presentation poster of H°ome" />
 
+## Serve yourself!
+This project remains under a [WTFPL](http://www.wtfpl.net/) license which means that you can do whatever the F*** you like with all documents and files of this repository.
+
+If you make a project like this one, or used the files of this project for another one I would be please to have a look. Notify me @vogelino !
 
 [sun-icon]: https://raw.githubusercontent.com/vogelino/visual-interfaces-basics/master/information-architecture/icons/sun.png
 [moon-icon]: https://raw.githubusercontent.com/vogelino/visual-interfaces-basics/master/information-architecture/icons/moon.png
